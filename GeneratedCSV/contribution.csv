@@ -1,0 +1,237 @@
+BRONX,Unspecified,16
+BRONX,Traffic Control Disregarded,6
+BRONX,Driver Inattention/Distraction,5
+BRONX,Passenger Distraction,4
+BRONX,Failure to Yield Right-of-Way,4
+BRONX,Following Too Closely,2
+BRONX,Drugs (Illegal),2
+BRONX,Turning Improperly,1
+BRONX,Fell Asleep,1
+BRONX,Other Vehicular,1
+BRONX,Aggressive Driving/Road Rage,1
+BRONX,Physical Disability,1
+BRONX,Driver Inexperience,1
+BRONX,Unsafe Speed,1
+BRONX,Backing Unsafely,1
+BRONX,Glare,0
+BRONX,Failure to Keep Right,0
+BRONX,Fatigued/Drowsy,0
+BRONX,Windshield Inadequate,0
+BRONX,Driverless/Runaway Vehicle,0
+BRONX,Illness,0
+BRONX,Cell Phone (hands-free),0
+BRONX,Cell Phone (hand-held),0
+BRONX,Brakes Defective,0
+BRONX,Animals Action,0
+BRONX,Alcohol Involvement,0
+BRONX,Headlights Defective,0
+BRONX,Other Electronic Device,0
+BRONX,Lane Marking Improper/Inadequate,0
+BRONX,Lost Consciousness,0
+BRONX,Unsafe Lane Changing,0
+BRONX,Traffic Control Device Improper/Non-Working,0
+BRONX,Tow Hitch Defective,0
+BRONX,Tire Failure/Inadequate,0
+BRONX,Steering Failure,0
+BRONX,Shoulders Defective/Improper,0
+BRONX,Reaction to Other Uninvolved Vehicle,0
+BRONX,Prescription Medication,0
+BRONX,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,0
+BRONX,Pavement Slippery,0
+BRONX,Pavement Defective,0
+BRONX,Passing or Lane Usage Improper,0
+BRONX,Oversized Vehicle,0
+BRONX,Outside Car Distraction,0
+BRONX,Other Lighting Defects,0
+BRONX,View Obstructed/Limited,0
+BRONX,Obstruction/Debris,0
+BRONX,Accelerator Defective,0
+BROOKLYN,Unspecified,47
+BROOKLYN,Driver Inattention/Distraction,16
+BROOKLYN,Failure to Yield Right-of-Way,12
+BROOKLYN,Traffic Control Disregarded,12
+BROOKLYN,Passenger Distraction,5
+BROOKLYN,Unsafe Speed,4
+BROOKLYN,Physical Disability,2
+BROOKLYN,Following Too Closely,2
+BROOKLYN,Glare,2
+BROOKLYN,Passing or Lane Usage Improper,1
+BROOKLYN,Alcohol Involvement,1
+BROOKLYN,Lost Consciousness,1
+BROOKLYN,Backing Unsafely,1
+BROOKLYN,Driver Inexperience,1
+BROOKLYN,View Obstructed/Limited,1
+BROOKLYN,Other Vehicular,1
+BROOKLYN,Aggressive Driving/Road Rage,0
+BROOKLYN,Fell Asleep,0
+BROOKLYN,Fatigued/Drowsy,0
+BROOKLYN,Brakes Defective,0
+BROOKLYN,Animals Action,0
+BROOKLYN,Cell Phone (hand-held),0
+BROOKLYN,Failure to Keep Right,0
+BROOKLYN,Drugs (Illegal),0
+BROOKLYN,Driverless/Runaway Vehicle,0
+BROOKLYN,Headlights Defective,0
+BROOKLYN,Cell Phone (hands-free),0
+BROOKLYN,Windshield Inadequate,0
+BROOKLYN,Other Electronic Device,0
+BROOKLYN,Illness,0
+BROOKLYN,Reaction to Other Uninvolved Vehicle,0
+BROOKLYN,Unsafe Lane Changing,0
+BROOKLYN,Turning Improperly,0
+BROOKLYN,Traffic Control Device Improper/Non-Working,0
+BROOKLYN,Tow Hitch Defective,0
+BROOKLYN,Tire Failure/Inadequate,0
+BROOKLYN,Steering Failure,0
+BROOKLYN,Shoulders Defective/Improper,0
+BROOKLYN,Prescription Medication,0
+BROOKLYN,Lane Marking Improper/Inadequate,0
+BROOKLYN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,0
+BROOKLYN,Pavement Slippery,0
+BROOKLYN,Pavement Defective,0
+BROOKLYN,Oversized Vehicle,0
+BROOKLYN,Outside Car Distraction,0
+BROOKLYN,Other Lighting Defects,0
+BROOKLYN,Obstruction/Debris,0
+BROOKLYN,Accelerator Defective,0
+MANHATTAN,Unspecified,24
+MANHATTAN,Failure to Yield Right-of-Way,12
+MANHATTAN,Driver Inattention/Distraction,5
+MANHATTAN,Passenger Distraction,4
+MANHATTAN,Traffic Control Disregarded,2
+MANHATTAN,Physical Disability,2
+MANHATTAN,Other Electronic Device,1
+MANHATTAN,Following Too Closely,1
+MANHATTAN,Other Vehicular,1
+MANHATTAN,Pavement Slippery,1
+MANHATTAN,Driver Inexperience,1
+MANHATTAN,Illness,1
+MANHATTAN,Backing Unsafely,1
+MANHATTAN,Cell Phone (hands-free),0
+MANHATTAN,Lane Marking Improper/Inadequate,0
+MANHATTAN,Cell Phone (hand-held),0
+MANHATTAN,Drugs (Illegal),0
+MANHATTAN,Brakes Defective,0
+MANHATTAN,Failure to Keep Right,0
+MANHATTAN,Animals Action,0
+MANHATTAN,Fatigued/Drowsy,0
+MANHATTAN,Fell Asleep,0
+MANHATTAN,Alcohol Involvement,0
+MANHATTAN,Aggressive Driving/Road Rage,0
+MANHATTAN,Glare,0
+MANHATTAN,Headlights Defective,0
+MANHATTAN,Driverless/Runaway Vehicle,0
+MANHATTAN,Windshield Inadequate,0
+MANHATTAN,Lost Consciousness,0
+MANHATTAN,Obstruction/Debris,0
+MANHATTAN,Unsafe Speed,0
+MANHATTAN,Unsafe Lane Changing,0
+MANHATTAN,Turning Improperly,0
+MANHATTAN,Traffic Control Device Improper/Non-Working,0
+MANHATTAN,Tow Hitch Defective,0
+MANHATTAN,Tire Failure/Inadequate,0
+MANHATTAN,Steering Failure,0
+MANHATTAN,Shoulders Defective/Improper,0
+MANHATTAN,Reaction to Other Uninvolved Vehicle,0
+MANHATTAN,Prescription Medication,0
+MANHATTAN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,0
+MANHATTAN,Pavement Defective,0
+MANHATTAN,Passing or Lane Usage Improper,0
+MANHATTAN,Oversized Vehicle,0
+MANHATTAN,Outside Car Distraction,0
+MANHATTAN,Other Lighting Defects,0
+MANHATTAN,View Obstructed/Limited,0
+MANHATTAN,Accelerator Defective,0
+QUEENS,Unspecified,34
+QUEENS,Traffic Control Disregarded,18
+QUEENS,Driver Inattention/Distraction,16
+QUEENS,Failure to Yield Right-of-Way,7
+QUEENS,Passenger Distraction,4
+QUEENS,Physical Disability,3
+QUEENS,Drugs (Illegal),2
+QUEENS,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,1
+QUEENS,Other Vehicular,1
+QUEENS,Backing Unsafely,1
+QUEENS,Fell Asleep,1
+QUEENS,Unsafe Lane Changing,1
+QUEENS,Unsafe Speed,1
+QUEENS,Driverless/Runaway Vehicle,1
+QUEENS,Fatigued/Drowsy,0
+QUEENS,Following Too Closely,0
+QUEENS,Glare,0
+QUEENS,Failure to Keep Right,0
+QUEENS,Windshield Inadequate,0
+QUEENS,Driver Inexperience,0
+QUEENS,Illness,0
+QUEENS,Cell Phone (hands-free),0
+QUEENS,Cell Phone (hand-held),0
+QUEENS,Brakes Defective,0
+QUEENS,Animals Action,0
+QUEENS,Alcohol Involvement,0
+QUEENS,Aggressive Driving/Road Rage,0
+QUEENS,Headlights Defective,0
+QUEENS,Other Electronic Device,0
+QUEENS,Lane Marking Improper/Inadequate,0
+QUEENS,Prescription Medication,0
+QUEENS,Turning Improperly,0
+QUEENS,Traffic Control Device Improper/Non-Working,0
+QUEENS,Tow Hitch Defective,0
+QUEENS,Tire Failure/Inadequate,0
+QUEENS,Steering Failure,0
+QUEENS,Shoulders Defective/Improper,0
+QUEENS,Reaction to Other Uninvolved Vehicle,0
+QUEENS,Pavement Slippery,0
+QUEENS,Lost Consciousness,0
+QUEENS,Pavement Defective,0
+QUEENS,Passing or Lane Usage Improper,0
+QUEENS,Oversized Vehicle,0
+QUEENS,Outside Car Distraction,0
+QUEENS,Other Lighting Defects,0
+QUEENS,View Obstructed/Limited,0
+QUEENS,Obstruction/Debris,0
+QUEENS,Accelerator Defective,0
+STATEN ISLAND,Unspecified,7
+STATEN ISLAND,Driver Inattention/Distraction,4
+STATEN ISLAND,Following Too Closely,2
+STATEN ISLAND,Traffic Control Disregarded,2
+STATEN ISLAND,Failure to Yield Right-of-Way,2
+STATEN ISLAND,Physical Disability,2
+STATEN ISLAND,Pavement Slippery,1
+STATEN ISLAND,Fell Asleep,1
+STATEN ISLAND,Tow Hitch Defective,1
+STATEN ISLAND,View Obstructed/Limited,0
+STATEN ISLAND,Glare,0
+STATEN ISLAND,Fatigued/Drowsy,0
+STATEN ISLAND,Failure to Keep Right,0
+STATEN ISLAND,Drugs (Illegal),0
+STATEN ISLAND,Driver Inexperience,0
+STATEN ISLAND,Driverless/Runaway Vehicle,0
+STATEN ISLAND,Lane Marking Improper/Inadequate,0
+STATEN ISLAND,Cell Phone (hands-free),0
+STATEN ISLAND,Cell Phone (hand-held),0
+STATEN ISLAND,Brakes Defective,0
+STATEN ISLAND,Backing Unsafely,0
+STATEN ISLAND,Animals Action,0
+STATEN ISLAND,Alcohol Involvement,0
+STATEN ISLAND,Aggressive Driving/Road Rage,0
+STATEN ISLAND,Illness,0
+STATEN ISLAND,Other Electronic Device,0
+STATEN ISLAND,Lost Consciousness,0
+STATEN ISLAND,Reaction to Other Uninvolved Vehicle,0
+STATEN ISLAND,Unsafe Speed,0
+STATEN ISLAND,Unsafe Lane Changing,0
+STATEN ISLAND,Turning Improperly,0
+STATEN ISLAND,Traffic Control Device Improper/Non-Working,0
+STATEN ISLAND,Tire Failure/Inadequate,0
+STATEN ISLAND,Steering Failure,0
+STATEN ISLAND,Shoulders Defective/Improper,0
+STATEN ISLAND,Prescription Medication,0
+STATEN ISLAND,Obstruction/Debris,0
+STATEN ISLAND,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,0
+STATEN ISLAND,Pavement Defective,0
+STATEN ISLAND,Passing or Lane Usage Improper,0
+STATEN ISLAND,Passenger Distraction,0
+STATEN ISLAND,Oversized Vehicle,0
+STATEN ISLAND,Outside Car Distraction,0
+STATEN ISLAND,Other Vehicular,0
+STATEN ISLAND,Accelerator Defective,0
