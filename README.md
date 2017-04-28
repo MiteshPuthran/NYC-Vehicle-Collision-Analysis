@@ -69,28 +69,8 @@ Finding out the top vehicle types that caused collision in each borough of NYC b
 1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
-## Analysis 3:
-## _Monthly collisions in Manhattan to that of the whole NYC for the year 2016_
-Finding out monthly collisions in Manhattan to the monthly in NYC for the year 2016
-<br>
-![](GeneratedImages/monthly.png?raw=true)
-![](GeneratedImages/percentage.png?raw=true)
-<br>
-#### Steps for the analysis:
-1. Reading the raw data from the CSV file.
-2. Taking date and borough data from the dataset.
-3. Seperating out month and year from the date using datetime.striptime method.
-4. Selecting the whole data for the NYC data and seperating Manhattan using the borough data.
-5. Calculating the percentage of accidents in Manhattan to that of NYC.
-6. Saving the data from the dataframe to a CSV file.
-7. Plotting a bar graph to display the monthly collision for the same and a pie chart to display the percentages of collision each month. 
-8. Saving the plotted graph as a PNG file.
-#### Outputs of Analysis:
-![](GeneratedImages/monthlytable.png?raw=true)
-1. [CSV File - Monthly.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
-2. [Plot Files - Monthly.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
-## Analysis 4:
+## Analysis 3:
 ## _Snowfall and Rainfall in inches causing injury to people in NYC from 2015-2017_
 Finding out the highest snowfall and rainfall in inches which caused maximum number of injuries  from collision to the people of NYC
 <br>
@@ -112,25 +92,6 @@ Finding out the highest snowfall and rainfall in inches which caused maximum num
 2. [CSV File - Raininjury.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 3. [Plot Files - Snowinjury.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 4. [Plot Files - Raininjury.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
-
-## Analysis 5:
-## _Finding out all the collisions, injury and death for all boroughs in NYC_
-Finding out all the collisions, injury and death for all the boroughs in NYC and plotting them together to show them as a map.
-<br>
-![](GeneratedImages/borough.png?raw=true)
-![](GeneratedImages/collision.png?raw=true)
-<br>
-#### Steps for the analysis:
-1. Reading the raw data from the CSV file.
-2. Seperating out the data for each borough.
-3. Specifying the markers to be plotted.
-4. Setting the limits for the figure.
-5. Specifying the data to be plotted in the figure.
-6. Plotting a graph to display all the parameters of collision, injury and death.
-7. Saving the plotted graph as a PNG file.
-#### Outputs of Analysis:
-
-1. [Plot Files - Collision.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
 
 ![](images/programs_OpenData.png?raw=true,#center)
