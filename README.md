@@ -35,7 +35,7 @@ The following analysis were made using the merged dataset.
 ## _Factors that caused maximum collision in whole NYC from 2015-2017_
 Finding out the top 10 factors that caused collision in NYC by using factors like Contibuting Factor and Number of Persons killed.
 <br>
-![](Generated Images/factor.png?raw=true)
+![](GeneratedImages/factor.png?raw=true)
 <br>
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
@@ -46,7 +46,7 @@ Finding out the top 10 factors that caused collision in NYC by using factors lik
 6. Plotting a graph to display the factors for the same.
 7. Saving the plotted graph as a PNG file.
 #### Outputs of Analysis:
-![](Generated Images/factortable.png?raw=true)
+![](GeneratedImages/factortable.png?raw=true)
 1. [CSV File - Factor.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Factor.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
@@ -54,7 +54,7 @@ Finding out the top 10 factors that caused collision in NYC by using factors lik
 ## _Vehicle type involved in collision and number of people killed at each borough of NYC from 2015-2017_
 Finding out the top vehicle types that caused collision in each borough of NYC by using factors like Borough, Vehicle Type and Number of Persons killed.
 <br>
-![](Generated Images/vehicle.png?raw=true)
+![](GeneratedImages/vehicle.png?raw=true)
 <br>
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
@@ -65,7 +65,7 @@ Finding out the top vehicle types that caused collision in each borough of NYC b
 6. Plotting a graph to display the vehicle type and number of people killed in each borough for the same. 
 7. Saving the plotted graph as a PNG file.
 #### Outputs of Analysis:
-![](Generated Images/vehicletable.png?raw=true)
+![](GeneratedImages/vehicletable.png?raw=true)
 1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
@@ -74,8 +74,8 @@ Finding out the top vehicle types that caused collision in each borough of NYC b
 ## _Snowfall and Rainfall in inches causing injury to people in NYC from 2015-2017_
 Finding out the highest snowfall and rainfall in inches which caused maximum number of injuries  from collision to the people of NYC
 <br>
-![](Generated Images/snowinjury.png?raw=true)
-![](Generated Images/raininjury.png?raw=true)
+![](GeneratedImages/snowinjury.png?raw=true)
+![](GeneratedImages/raininjury.png?raw=true)
 <br>
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
